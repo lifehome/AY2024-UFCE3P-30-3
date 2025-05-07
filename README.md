@@ -2,8 +2,8 @@
 Simple Sentiment Analysis implementation for UFCE3P-30-3 coursework
 
 ## Dataset reference
-In this proejct we are using "The Depression Dataset" published on Kaggle.com under the "CC0: Public Domain" license.
-- https://www.kaggle.com/datasets/arashnic/the-depression-dataset
+In this proejct we are using "depression-social-media" published on Kaggle.com under an unknown license.
+- https://www.kaggle.com/datasets/nicohu/depressionsocialmedia/data
 
 We would like to thank the uploading user and author(s), as well as the people contributing in this dataset.
 
